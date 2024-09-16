@@ -6,6 +6,8 @@ public class BasicOperations {
 		// TODO Auto-generated method stub
 System.out.println("Hello");
 		//pull
+//push
+
 	}
 
 }
